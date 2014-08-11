@@ -33,7 +33,7 @@ body {
 
 .load::after {
     content    : "";
-    background : url(load.gif);
+    background : url(https://raw.githubusercontent.com/hartenfels/WebUI101/master/dist/load.gif);
     opacity    : 0.85;
     top        : 0;
     left       : 0;
